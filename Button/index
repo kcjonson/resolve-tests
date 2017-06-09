@@ -1,0 +1,5 @@
+// This file will never be resolved to
+
+module.exports = function() {
+   console.log('hello from index')
+}
